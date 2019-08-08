@@ -12,5 +12,7 @@ package hello1;
 public class Class {
    public void  get(){
     System.out.println("hello") ;
+    System.out.println("hi") ;
+    
    }
 }
